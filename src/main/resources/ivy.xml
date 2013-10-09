@@ -1,0 +1,18 @@
+<?xml version='1.0'?>
+<ivy-module version='2.0'>
+
+  <info
+	organisation='edu.iupui.ulib'
+	module='dspace'
+  >
+    <ivyauthor
+	name='Mark H. Wood'
+	url='mailto:mwood@IUPUI.Edu'/>
+    <description>
+	Virtual to assemble and configure a DSpace installation.
+    </description>
+  </info>
+
+  <publications/>
+
+</ivy-module>
